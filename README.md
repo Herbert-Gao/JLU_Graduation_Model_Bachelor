@@ -1,10 +1,16 @@
-# HUSTtex
-华中科技大学本科毕业论文一系列TeX模板
-> 请使用 [**XeLaTeX**](https://en.wikipedia.org/wiki/XeTeX) 编译！！！（正常默认是 `pdflatex`？）
+# JLU_Bachelor
+**吉林大学本科毕业论文Tex模板**
+
+本模板改自华中科技大学毕业论文模板，权利Copyright (C) 2019~ by Zhou Feng 冯洲 <https://github.com/zfengg>。
+
+如果熟悉，本模板已经在overleaf上分享，请直接在template中搜索使用。
+> 请使用 [**XeLaTeX**](https://en.wikipedia.org/wiki/XeTeX) 编译！！！
 
 A series of `LaTeX` templates for the tasks to complete the undergraduate thesis at Huazhong University of Science and Technology. 
 
 The `TeX` editor [TeXstudio](https://www.texstudio.org/) is recommended by Zhou and be sure to set the compiler as **XeLaTeX**. 
+
+## 论文主体为thesis.tex，更换首页【封面.pdf】后即可使用，您可能需要更改页眉页脚信息，已符合自己学院要求。原华中科技大学毕业论文模板还提供了其他.tex文件，如有需要，请自行适用。
 
 ## `.tex` 模板 `.tex` files
 - 开题报告(thesis proposal): [`HUSTproposal.tex`](HUSTproposal\HUSTproposal.tex)
